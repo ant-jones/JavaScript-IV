@@ -3,7 +3,7 @@
 //Prototype Refactor
 
 //1. Copy and paste your code or the solution from yesterday
-
+/*
   class GameObject{
       constructor(attr){
   this.createdAt = attr.createdAt;
@@ -50,7 +50,7 @@
 */
 
 // Test you work by un-commenting these 3 objects and the list of console logs below:
-const mage = new Humanoid({
+/*const mage = new Humanoid({
     createdAt: new Date(),
     dimensions: {
       length: 2,
@@ -110,6 +110,6 @@ const mage = new Humanoid({
   console.log(archer.greet()); // Lilith offers a greeting in Elvish.
   console.log(mage.takeDamage()); // Bruce took damage.
   console.log(swordsman.destroy()); // Sir Mustachio was removed from the game.
-//2. Your goal is to refactor all of this code to use ES6 Classes. The console.log() statements should still return what is expected of them.
+//2. Your goal is to refactor all of this code to use ES6 Classes. The console.log() statements should still return what is expected of them.*/
 
 
